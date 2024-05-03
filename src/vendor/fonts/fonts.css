@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Merienda';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(./Merienda-Regular.woff2) format("woff2"),
+			url(./Merienda-Regular.woff) format("woff");
+}
+
+@font-face {
+	font-family: 'Merienda';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(./Merienda-Bold.woff2) format("woff2"),
+			url(./Merienda-Bold.woff) format("woff");
+}
