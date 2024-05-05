@@ -1,14 +1,14 @@
 import Header from '../Header/Header';
 import Title from '../Title/Title';
-import './HeaderWrapper.css';
+import './MainPageWrapper.css';
 
-function HeaderWrapper() {
+function MainPageWrapper() {
 	return (
-		<div className="header-wrapper">
+		<div className="main-page-wrapper">
 			<Header />
 			<Title />
 		</div>
 	);
 };
 
-export default HeaderWrapper;
+export default MainPageWrapper;

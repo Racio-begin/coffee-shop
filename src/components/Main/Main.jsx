@@ -1,14 +1,14 @@
 import './Main.css';
-import HeaderWrapper from '../HeaderWrapper/HeaderWrapper';
+import MainPageWrapper from '../MainPageWrapper/MainPageWrapper';
 import AboutUs from '../AboutUs/AboutUs';
 import OurBest from '../OurBest/OurBest';
 
 function Main() {
 	return (
 		<div className="main">
-			<HeaderWrapper />
-			<AboutUs></AboutUs>
-			<OurBest></OurBest>
+			<MainPageWrapper />
+			<AboutUs />
+			<OurBest />
 		</div>
 	);
 };

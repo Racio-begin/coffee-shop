@@ -2,3 +2,6 @@
 
 /*  Fonts  */
 @import url(../src/vendor/fonts/fonts.css);
+
+/*  Button styles  */
+@import url(./common/button.css);
