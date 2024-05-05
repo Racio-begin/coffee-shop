@@ -1,15 +1,20 @@
 import './AboutUs.css';
 
-import logo from '../../images/logo/Beans-logo.svg'
+import BeansImg from '../BeansImg/BeansImg';
+// import logo from '../../images/logo/Beans-logo.svg'
 
 function AboutUs() {
 	return (
 		<div className="about-us">
 			<h2 className="about-us__title">About Us</h2>
-			<img
+			{/* <img
 				className="about-us__beans-img"
 				src={logo}
-				alt="Кофейные бобы" />
+				alt="Кофейные бобы" /> */}
+			<div className="about-us__beans-img">
+				<BeansImg />
+			</div>
+			
 			<div className="about-us__container">
 				<p className="about-us__paragraph">
 					Extremity sweetness difficult behaviour he&nbsp;of. On&nbsp;disposal of&nbsp;as&nbsp;landlord horrible.
