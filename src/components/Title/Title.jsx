@@ -2,17 +2,18 @@ import './Title.css';
 
 import MoreButton from '../MoreButton/MoreButton';
 
-import BeansLogo from '../../images/logo/Beans-logo.svg';
+// import BeansLogo from '../../images/logo/Beans-logo.svg';
+import BeansImg from '../BeansImg/BeansImg';
 
 function Title() {
 	return (
 		<div className="title">
 			<h1 className="title__main-heading">Everything You Love About Coffee</h1>
 
-			<img
-				className="title__logo"
-				src={BeansLogo}
-				alt="Логотип кофейного магазина" />
+
+			<div className="title__beans-img">
+				<BeansImg />
+			</div>
 
 			<ul className="title__list ul">
 				<li className="title__list-element">We makes every day full of energy and taste</li>

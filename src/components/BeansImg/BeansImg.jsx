@@ -7,7 +7,7 @@ function BeansImg() {
 		<img
 			className="beans-img"
 			src={coffeeBeans}
-			alt="Изображение Кофейных бобов" />
+			alt="Изображение кофейных бобов" />
 	);
 };
 
