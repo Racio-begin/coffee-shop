@@ -14,7 +14,7 @@ function Title() {
 				src={BeansLogo}
 				alt="Логотип кофейного магазина" />
 
-			<ul className="title__list">
+			<ul className="title__list ul">
 				<li className="title__list-element">We makes every day full of energy and taste</li>
 				<li className="title__list-element">Want to try our beans?</li>
 			</ul>
