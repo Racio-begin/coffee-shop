@@ -1,0 +1,6 @@
+.card-list-our-best {
+	display: grid;
+	justify-items: center;
+	grid-template-columns: repeat(3, 1fr);
+	column-gap: 70px;
+}
