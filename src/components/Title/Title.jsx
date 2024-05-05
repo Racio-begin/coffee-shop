@@ -19,7 +19,6 @@ function Title() {
 				<li className="title__list-element">Want to try our beans?</li>
 			</ul>
 
-
 			<MoreButton
 				buttonText={"More"} >
 			</MoreButton>

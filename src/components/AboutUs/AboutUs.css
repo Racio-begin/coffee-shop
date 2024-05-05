@@ -1,0 +1,31 @@
+.about-us {
+	min-height: 520px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.about-us__title {
+	font-size: 24px;
+	line-height: 26px;
+	margin: 80px 0 20px;
+}
+
+.about-us__beans-img {
+	margin-bottom: 41px;
+}
+
+.about-us__container {
+	width: 590px;
+}
+
+.about-us__paragraph {
+	font-size: 14px;
+	line-height: 20px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.about-us__paragraph:last-child {
+	margin-bottom: 0;
+}
