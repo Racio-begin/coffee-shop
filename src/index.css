@@ -11,3 +11,6 @@
 
 /*  List styles  */
 @import url(./common/ul.css);
+
+/*  Body (фон всего документа)  */
+@import url(./common/body.css);

@@ -5,11 +5,11 @@ import OurBest from '../OurBest/OurBest';
 
 function Main() {
 	return (
-		<div className="main">
+		<main className="main">
 			<MainPageWrapper />
 			<AboutUs />
 			<OurBest />
-		</div>
+		</main>
 	);
 };
 
