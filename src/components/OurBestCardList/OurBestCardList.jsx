@@ -1,10 +1,10 @@
-import './CardListOurBest.css';
+import './OurBestCardList.css';
 import Card from '../Card/Card';
 import photo from '../../images/pictures/Card_pic-1.png';
 
-function CardListOurBest() {
+function OurBestCardList() {
 	return (
-		<section className="card-list-our-best">
+		<section className="our-best-card-list">
 			<Card
 				cardPhoto={photo}
 				cardTitle="Solimo Coffee Beans 2 kg"
@@ -27,4 +27,4 @@ function CardListOurBest() {
 	);
 };
 
-export default CardListOurBest;
+export default OurBestCardList;

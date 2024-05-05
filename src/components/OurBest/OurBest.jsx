@@ -1,5 +1,5 @@
 import './OurBest.css';
-import CardListOurBest from '../CardListOurBest/CardListOurBest';
+import OurBestCardList from '../OurBestCardList/OurBestCardList';
 
 function OurBest() {
 	return (
@@ -13,7 +13,7 @@ function OurBest() {
 				<div className="our-best__card"></div> */}
 
 			{/* </div> */}
-			<CardListOurBest />
+			<OurBestCardList />
 		</div>
 	);
 };
