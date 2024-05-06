@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/coffee-shop/static/css/main.171d4d7c.css",
-    "main.js": "/coffee-shop/static/js/main.5cb02455.js",
+    "main.css": "/coffee-shop/static/css/main.16aed855.css",
+    "main.js": "/coffee-shop/static/js/main.8db472cb.js",
     "static/media/Paper-background-our-best.png": "/coffee-shop/static/media/Paper-background-our-best.ced83951dc4453d7a365.png",
     "static/media/Header_page-1.png": "/coffee-shop/static/media/Header_page-1.f72845886f22686b7697.png",
     "static/media/Header_page-2.png": "/coffee-shop/static/media/Header_page-2.1929dd25bb8c5d76d63f.png",
@@ -17,11 +17,11 @@
     "static/media/Merienda-Bold.woff2": "/coffee-shop/static/media/Merienda-Bold.2bfd5386051cec522f71.woff2",
     "static/media/Beans-logo.svg": "/coffee-shop/static/media/Beans-logo.023b976cf584c92cb61afe5c82a0d35f.svg",
     "index.html": "/coffee-shop/index.html",
-    "main.171d4d7c.css.map": "/coffee-shop/static/css/main.171d4d7c.css.map",
-    "main.5cb02455.js.map": "/coffee-shop/static/js/main.5cb02455.js.map"
+    "main.16aed855.css.map": "/coffee-shop/static/css/main.16aed855.css.map",
+    "main.8db472cb.js.map": "/coffee-shop/static/js/main.8db472cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.171d4d7c.css",
-    "static/js/main.5cb02455.js"
+    "static/css/main.16aed855.css",
+    "static/js/main.8db472cb.js"
   ]
 }
