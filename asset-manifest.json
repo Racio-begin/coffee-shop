@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coffee-shop/static/css/main.ce179a7b.css",
+    "main.js": "/coffee-shop/static/js/main.a5ce0461.js",
+    "static/media/Paper-background-our-best.png": "/coffee-shop/static/media/Paper-background-our-best.ced83951dc4453d7a365.png",
+    "static/media/Header_page-1.png": "/coffee-shop/static/media/Header_page-1.f72845886f22686b7697.png",
+    "static/media/Header_page-2.png": "/coffee-shop/static/media/Header_page-2.1929dd25bb8c5d76d63f.png",
+    "static/media/Card_pic-4.png": "/coffee-shop/static/media/Card_pic-4.59d8400b95a441c4465a.png",
+    "static/media/About_our_beans.png": "/coffee-shop/static/media/About_our_beans.9e63163398e0a6b90fc9.png",
+    "static/media/Card_pic-3.png": "/coffee-shop/static/media/Card_pic-3.bc6c07cd0afd73e7b0f1.png",
+    "static/media/Card_pic-1.png": "/coffee-shop/static/media/Card_pic-1.077fb44f36454fe4fa33.png",
+    "static/media/Card_pic-2.png": "/coffee-shop/static/media/Card_pic-2.45b760feec70550be0e5.png",
+    "static/media/Coffee-house-logo.svg": "/coffee-shop/static/media/Coffee-house-logo.3ac7f86046b4ea13fea682ac629b373e.svg",
+    "static/media/Merienda-Regular.woff": "/coffee-shop/static/media/Merienda-Regular.f7024d29f632ff13863e.woff",
+    "static/media/Merienda-Bold.woff": "/coffee-shop/static/media/Merienda-Bold.b46b5823c678952f6c4d.woff",
+    "static/media/Merienda-Regular.woff2": "/coffee-shop/static/media/Merienda-Regular.3ca782ea1566229b539a.woff2",
+    "static/media/Merienda-Bold.woff2": "/coffee-shop/static/media/Merienda-Bold.2bfd5386051cec522f71.woff2",
+    "static/media/Beans-logo.svg": "/coffee-shop/static/media/Beans-logo.023b976cf584c92cb61afe5c82a0d35f.svg",
+    "index.html": "/coffee-shop/index.html",
+    "main.ce179a7b.css.map": "/coffee-shop/static/css/main.ce179a7b.css.map",
+    "main.a5ce0461.js.map": "/coffee-shop/static/js/main.a5ce0461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce179a7b.css",
+    "static/js/main.a5ce0461.js"
+  ]
+}
