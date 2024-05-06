@@ -1,7 +1,7 @@
 {
   "homepage": "https://racio-begin.github.io/coffee-shop/",
   "name": "coffee-shop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Averyanov N",
   "private": true,
   "dependencies": {
