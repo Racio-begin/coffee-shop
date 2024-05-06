@@ -2,7 +2,7 @@ import './Card.css';
 
 function Card({ ...props }) {
 	return (
-		<div className="card">
+		<div className={`card ${props.isBoxShadow ? "card__box-shadow" : ""}`}>
 			<img
 				className="card__image"
 				src={props.cardPhoto}

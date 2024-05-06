@@ -1,0 +1,7 @@
+.our-coffee-card-list {
+	display: grid;
+	justify-items: center;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 70px 60px;
+	margin-bottom: 30px	;
+}
