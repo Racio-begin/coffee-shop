@@ -1,6 +1,8 @@
 import './PageNotFound.css';
 import { useNavigate } from "react-router-dom";
 
+import BeansImg from '../BeansImg/BeansImg';
+
 function PageNotFound() {
 
 	const navigate = useNavigate();
@@ -9,6 +11,7 @@ function PageNotFound() {
 		<main className="page-not-found">
 			<section className="page-not-found__container">
 				<h1 className="page-not-found__title">404</h1>
+				<BeansImg />
 				<p className="page-not-found__subtitle">Coffee not found</p>
 			</section>
 			<button
