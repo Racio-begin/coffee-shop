@@ -6,7 +6,7 @@ function OurCoffeeLink() {
 		<Link
 		className="our-coffee__link link"
 		to="/our-coffee">
-		Our Coffee
+		Our сoffee
 	</Link>
 	);
 };

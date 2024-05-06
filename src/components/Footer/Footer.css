@@ -6,14 +6,18 @@
 }
 
 .footer__container {
-	width: 400px;
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	column-gap: 40px;
+	display: flex;
 	justify-items: center;
 	align-items: end;
-
 	margin: 30px 0;
+}
+
+.footer__container-element {
+	margin-right: 40px;
+}
+
+.footer__container-element:last-child {
+	margin-right: 0;
 }
 
 .footer__logo {

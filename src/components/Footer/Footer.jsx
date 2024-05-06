@@ -7,19 +7,29 @@ import OurCoffeeLink from '../OurCoffeeLink/OurCoffeeLink';
 function Footer() {
 	return (
 		<div className="footer">
-			<div className="footer__container">
-				<div className="footer__logo">
-					<Logo />
-				</div>
-				<div>
-					<OurCoffeeLink />
-				</div>
-				<Link
-					className="footer__link link"
-					to={"/"}>
-					For your pleasure
-				</Link>
-			</div>
+			<ul className="footer__container ul">
+
+				<li className="footer__container-element">
+					<div className="footer__logo">
+						<Logo />
+					</div>
+				</li>
+
+				<li className="footer__container-element">
+					<div>
+						<OurCoffeeLink />
+					</div>
+				</li>
+
+				<li className="footer__container-element">
+					<Link
+						className="footer__link link"
+						to={"/"}>
+						For your pleasure
+					</Link>
+				</li>
+
+			</ul>
 			<BeansImg />
 
 		</div>
