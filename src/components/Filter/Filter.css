@@ -1,0 +1,18 @@
+.filter {
+	width: 326px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-left: 83px;
+}
+
+.filter__text {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.filter__container {
+	width: 235px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+}
