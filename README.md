@@ -6,5 +6,5 @@
 
 Для реализации проекта был использован следующий [макет](https://www.figma.com/file/vY4hm8JebX09dtOWxPv7dw/Coffee-shop-(Copy)?type=design&node-id=0%3A1&mode=design&t=XHAb15sAmEGhMFuj-1).
 
-
+## Новые грани вкуса
 Погрузитесь в мир настоящего кофейного искусства вместе с проектом Coffee Shop! Посетите наш [сайт](https://racio-begin.github.io/coffee-shop) и насладитесь ароматом свежесваренного кофе прямо у себя дома.
