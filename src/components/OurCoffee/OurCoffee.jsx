@@ -2,6 +2,7 @@ import './OurCoffee.css';
 
 import AboutOurBeans from '../AboutOurBeans/AboutOurBeans';
 import OurCoffeePageWrapper from '../OurCoffeePageWrapper/OurCoffeePageWrapper';
+import Filters from '../Filters/Filters';
 
 function OurCoffee() {
 	return (
@@ -9,6 +10,10 @@ function OurCoffee() {
 
 			<OurCoffeePageWrapper />
 			<AboutOurBeans />
+
+			<hr className="our-coffee__hr" />
+
+			<Filters />
 
 		</div>
 	);

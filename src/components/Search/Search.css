@@ -1,0 +1,11 @@
+.search {
+	width: 284px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.search__text {
+	font-size: 14px;
+	line-height: 20px;
+}
