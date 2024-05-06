@@ -11,8 +11,8 @@
 .header__link {
   line-height: 17px;
   margin-left: 40px;
-  filter: invert(1);
-  color: #fff;
+  /* filter: invert(1); */
+  /* color: #fff; */
 }
 
 .header__logo-wrapper {

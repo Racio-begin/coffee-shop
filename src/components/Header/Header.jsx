@@ -11,7 +11,9 @@ function Header() {
 			<Logo />
 
 			<div className="header__link">
-				<OurCoffeeLink />
+				<OurCoffeeLink
+				isHeader={true}
+				/>
 			</div>
 		</div>
 	);

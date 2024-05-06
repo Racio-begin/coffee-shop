@@ -10,7 +10,6 @@ function Title() {
 		<div className="title">
 			<h1 className="title__main-heading">Everything You Love About Coffee</h1>
 
-
 			<div className="title__beans-img">
 				<BeansImg />
 			</div>
@@ -21,8 +20,8 @@ function Title() {
 			</ul>
 
 			<MoreButton
-				buttonText={"More"} >
-			</MoreButton>
+				buttonText={"More"}
+			/>
 		</div>
 	);
 };

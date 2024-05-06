@@ -1,13 +1,14 @@
 import './OurCoffeeLink.css';
 import { Link } from 'react-router-dom';
 
-function OurCoffeeLink() {
+function OurCoffeeLink({ isHeader }) {
+
 	return (
 		<Link
-		className="our-coffee__link link"
-		to="/our-coffee">
-		Our сoffee
-	</Link>
+			className={`our-coffee__link link ${isHeader ? "our-coffee__header" : ""}`}
+			to="/our-coffee">
+			Our сoffee
+		</Link>
 	);
 };
 

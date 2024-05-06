@@ -1,5 +1,11 @@
 .our-coffee__link {
 	font-size: 12px;
 	line-height: 18px;
-	color: black;
+	font-weight: 400;
+	color: #000;
+}
+
+.our-coffee__header {
+	color: #ddd;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
