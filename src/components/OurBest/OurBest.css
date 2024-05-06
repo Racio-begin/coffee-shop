@@ -1,6 +1,5 @@
 .our-best {
 	min-height: 495px;
-	/* box-sizing: border-box; */
 	background-image: url(../../images/pictures/Paper-background-our-best.png);
 	display: flex;
 	flex-direction: column;

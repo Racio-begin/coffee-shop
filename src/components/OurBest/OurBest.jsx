@@ -6,13 +6,6 @@ function OurBest() {
 		<div className="our-best">
 			<h2 className="our-best__title">Our best</h2>
 
-			{/* <div className="our-best__container">
-
-				<div className="our-best__card"></div>
-				<div className="our-best__card"></div>
-				<div className="our-best__card"></div> */}
-
-			{/* </div> */}
 			<OurBestCardList />
 		</div>
 	);

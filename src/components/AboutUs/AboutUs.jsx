@@ -1,16 +1,12 @@
 import './AboutUs.css';
 
 import BeansImg from '../BeansImg/BeansImg';
-// import logo from '../../images/logo/Beans-logo.svg'
 
 function AboutUs() {
 	return (
 		<div className="about-us">
 			<h2 className="about-us__title">About Us</h2>
-			{/* <img
-				className="about-us__beans-img"
-				src={logo}
-				alt="Кофейные бобы" /> */}
+
 			<div className="about-us__beans-img">
 				<BeansImg />
 			</div>

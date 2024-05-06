@@ -10,7 +10,6 @@ function Logo() {
 				src={logo}
 				alt="Логотип сайта Coffee Shop"
 			/>
-			{/* <p className="logo__text">Coffee Shop</p> */}
 		</Link>
 	);
 };
