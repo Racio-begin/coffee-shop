@@ -4,6 +4,7 @@ import AboutOurBeans from '../AboutOurBeans/AboutOurBeans';
 import OurCoffeePageWrapper from '../OurCoffeePageWrapper/OurCoffeePageWrapper';
 import Filters from '../Filters/Filters';
 import OurCoffeeCardList from '../OurCoffeeCardList/OurCoffeeCardList';
+import Footer from '../Footer/Footer';
 
 function OurCoffee() {
 	return (
@@ -17,7 +18,7 @@ function OurCoffee() {
 			<Filters />
 			<OurCoffeeCardList />
 
-
+			<Footer />
 		</div>
 	);
 };

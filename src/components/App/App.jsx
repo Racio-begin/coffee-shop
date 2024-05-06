@@ -34,10 +34,9 @@ function App() {
 					element={<PageNotFound />}
 				/>
 
-
 			</Routes>
 
-			<Footer />
+			{/* <Footer /> */}
 		</div>
 	);
 };
