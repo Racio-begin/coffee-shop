@@ -8,18 +8,19 @@ import Footer from '../Footer/Footer';
 
 function OurCoffee() {
 	return (
-		<div className="our-coffee">
+		<>
+			<main className="our-coffee">
+				<OurCoffeePageWrapper />
+				<AboutOurBeans />
 
-			<OurCoffeePageWrapper />
-			<AboutOurBeans />
+				<hr className="our-coffee__hr" />
 
-			<hr className="our-coffee__hr" />
-
-			<Filters />
-			<OurCoffeeCardList />
+				<Filters />
+				<OurCoffeeCardList />
+			</main>
 
 			<Footer />
-		</div>
+		</>
 	);
 };
 

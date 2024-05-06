@@ -5,11 +5,13 @@ import Footer from '../Footer/Footer';
 
 function CardPage() {
 	return (
-		<div className="card-page">
-			<OurCoffeePageWrapper></OurCoffeePageWrapper>
-			<AboutIt></AboutIt>
+		<>
+			<main className="card-page">
+				<OurCoffeePageWrapper />
+				<AboutIt />
+			</main>
 			<Footer />
-		</div>
+		</>
 	);
 };
 

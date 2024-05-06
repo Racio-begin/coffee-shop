@@ -6,7 +6,7 @@ import OurCoffeeLink from '../OurCoffeeLink/OurCoffeeLink';
 
 function Footer() {
 	return (
-		<div className="footer">
+		<footer className="footer">
 			<ul className="footer__container ul">
 
 				<li className="footer__container-element">
@@ -30,9 +30,10 @@ function Footer() {
 				</li>
 
 			</ul>
+
 			<BeansImg />
 
-		</div>
+		</footer>
 	);
 };
 
