@@ -7,12 +7,14 @@ import Footer from '../Footer/Footer';
 function Main() {
 	return (
 		<>
-		<main className="main">
-			<MainPageWrapper />
-			<AboutUs />
-			<OurBest />
-		</main>
-		<Footer />
+				<MainPageWrapper />
+
+			<main className="main">
+				<AboutUs />
+				<OurBest />
+			</main>
+
+			<Footer />
 		</>
 	);
 };

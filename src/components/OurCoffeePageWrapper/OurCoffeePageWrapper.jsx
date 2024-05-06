@@ -5,10 +5,10 @@ import OurCoffeeTitle from '../OurCoffeeTitle/OurCoffeeTitle';
 
 function OurCoffeePageWrapper() {
 	return (
-		<div className="our-coffee-page-wrapper">
+		<header className="our-coffee-page-wrapper">
 			<Header />
 			<OurCoffeeTitle />
-		</div>
+		</header>
 	);
 };
 

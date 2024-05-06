@@ -4,10 +4,10 @@ import './MainPageWrapper.css';
 
 function MainPageWrapper() {
 	return (
-		<div className="main-page-wrapper">
+		<header className="main-page-wrapper">
 			<Header />
 			<Title />
-		</div>
+		</header>
 	);
 };
 

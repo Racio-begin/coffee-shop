@@ -9,8 +9,9 @@ import Footer from '../Footer/Footer';
 function OurCoffee() {
 	return (
 		<>
+			<OurCoffeePageWrapper />
+
 			<main className="our-coffee">
-				<OurCoffeePageWrapper />
 				<AboutOurBeans />
 
 				<hr className="our-coffee__hr" />

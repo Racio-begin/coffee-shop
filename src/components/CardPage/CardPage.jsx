@@ -6,8 +6,8 @@ import Footer from '../Footer/Footer';
 function CardPage() {
 	return (
 		<>
-			<main className="card-page">
 				<OurCoffeePageWrapper />
+			<main className="card-page">
 				<AboutIt />
 			</main>
 			<Footer />
