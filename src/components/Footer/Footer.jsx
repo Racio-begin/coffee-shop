@@ -24,7 +24,7 @@ function Footer() {
 				<li className="footer__container-element">
 					<Link
 						className="footer__link link"
-						to={"/"}>
+						to={"/coffee-shop"}>
 						For your pleasure
 					</Link>
 				</li>
