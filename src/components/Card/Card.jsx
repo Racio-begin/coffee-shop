@@ -10,9 +10,9 @@ function Card({ ...props }) {
 			/>
 			<h3 className="card__title">{props.cardTitle}</h3>
 
-			{props.country && <p className="card__country">{props.country}</p>}
-
 			<div className="card__price-wrapper">
+				{props.country && <p className="card__country">{props.country}</p>}
+
 				<p className="card__price">{props.price}$</p>
 			</div>
 		</div>
