@@ -15,7 +15,7 @@ function App() {
 			<Routes>
 
 				<Route
-					path='/'
+					path='/coffee-shop'
 					element={<Main />}
 				/>
 
