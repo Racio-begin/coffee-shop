@@ -7,7 +7,7 @@ import './Header.css';
 
 function Header() {
 	return (
-		<div className="header">
+		<nav className="header">
 			<Logo />
 
 			<div className="header__link">
@@ -15,7 +15,7 @@ function Header() {
 				isHeader={true}
 				/>
 			</div>
-		</div>
+		</nav>
 	);
 };
 
