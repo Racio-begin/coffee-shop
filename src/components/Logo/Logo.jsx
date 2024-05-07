@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-// import logo from '../../images/logo/coffee-beans.svg';
 import logo from '../../images/logo/Coffee-house-logo.svg';
 import './Logo.css';
 

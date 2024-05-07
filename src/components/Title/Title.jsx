@@ -1,8 +1,6 @@
 import './Title.css';
 
 import MoreButton from '../MoreButton/MoreButton';
-
-// import BeansLogo from '../../images/logo/Beans-logo.svg';
 import BeansImg from '../BeansImg/BeansImg';
 
 function Title() {

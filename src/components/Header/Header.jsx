@@ -1,5 +1,3 @@
-import { Link, Route, Routes } from 'react-router-dom';
-
 import Logo from '../Logo/Logo';
 import OurCoffeeLink from '../OurCoffeeLink/OurCoffeeLink';
 

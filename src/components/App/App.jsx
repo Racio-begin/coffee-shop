@@ -2,7 +2,6 @@ import './App.css';
 import Main from '../Main/Main';
 import OurCoffee from '../OurCoffee/OurCoffee';
 import CardPage from '../CardPage/CardPage';
-import Footer from '../Footer/Footer';
 import PageNotFound from '../PageNotFound/PageNotFound';
 
 import { Route, Routes } from 'react-router-dom';
